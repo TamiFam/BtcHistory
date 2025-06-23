@@ -14,6 +14,7 @@ backend/dist/
 .env.*
 # Не игнорировать .env.example
 !.env.example
+!.env.example1
 
 # Docker files
 *.log
